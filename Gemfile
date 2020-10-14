@@ -32,6 +32,7 @@ gem 'bulma-rails', '~> 0.9.0'
 gem 'simple_form'
 
 gem 'devise'
+gem 'hirb'
 
 
 group :development, :test do
