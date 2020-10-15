@@ -17,7 +17,7 @@
  @import 'bulma';
 
  .navbar-brand .title {
-   color: rgb(179, 137, 137);
+   color: #fff;
  }
 
  // round images
@@ -30,4 +30,8 @@
 
 .notification:not(:last-child) {
   margin-bottom: 0;
+}
+
+.new-tweet-btn {
+  margin: .5rem;
 }
